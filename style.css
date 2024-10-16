@@ -1,0 +1,25 @@
+header {
+    background-color: #374259; 
+    color: white !important;
+}
+
+.table thead {
+    background-color: #545B77; 
+    color: white !important;
+}
+
+.total-section {
+    background-color: #5C8984 !important; 
+    color: white !important;
+}
+
+.buttons button {
+    background-color: #28a745 !important; 
+    color: white !important;
+    border: none !important;
+}
+
+.bg-warning {
+    background-color: #F2D8D8 !important; 
+    color: #343a40 !important;
+}
